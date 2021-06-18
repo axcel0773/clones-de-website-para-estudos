@@ -113,6 +113,27 @@ body {
     outline: 0;
 }
 
+.search__icon {
+    position: absolute;
+    top: 345px;
+    left: 500px;
+    height: 20px;
+}
+
+.keyboard__icon {
+    position: absolute;
+    top: 341px;
+    right: 520px;
+    height: 24px;
+}
+
+.voice__icon {
+    position: absolute;
+    top: 341px;
+    right: 500px;
+    height: 20px;
+}
+
 .content__search:focus {
     border: 1px solid blue;
 }
